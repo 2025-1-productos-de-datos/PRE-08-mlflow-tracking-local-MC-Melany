@@ -1,0 +1,15 @@
+artifact_uri: file:C:\Documentos Melany\Especializacion en Analitica\Producto de datos\PRE-08-mlflow-tracking-local-MC-Melany\my_mlruns/921983778321137276/81c0588d7ea04c8883d1fedaa1a2ce19/artifacts
+end_time: 1748103472998
+entry_point_name: ''
+experiment_id: '921983778321137276'
+lifecycle_stage: active
+run_id: 81c0588d7ea04c8883d1fedaa1a2ce19
+run_name: knn_7d96cd1e
+run_uuid: 81c0588d7ea04c8883d1fedaa1a2ce19
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748103472859
+status: 3
+tags: []
+user_id: melan

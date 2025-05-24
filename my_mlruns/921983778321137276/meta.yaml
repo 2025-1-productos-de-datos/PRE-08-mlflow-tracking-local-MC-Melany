@@ -1,0 +1,7 @@
+artifact_location: file:C:\Documentos Melany\Especializacion en Analitica\Producto
+  de datos\PRE-08-mlflow-tracking-local-MC-Melany\my_mlruns/921983778321137276
+creation_time: 1748103462818
+experiment_id: '921983778321137276'
+last_update_time: 1748103462818
+lifecycle_stage: active
+name: wine_quality_experiment
